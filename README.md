@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&fontColor=FFFFFF&text=WOOCHAN0408&fontAlign=50&fontAlignY=60&desc=Software%20Engineering%20Student%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlign=50&descAlignY=80&color=0:1e3c72,100:2a5298)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&fontColor=FFFFFF&text=WOOCHAN0408&fontAlign=50&fontAlignY=60&desc=Software%20Engineering%20Student%20%7C%20AI-Driven%20Full-Stack%20Developer&descAlign=50&descAlignY=80&color=0:1e3c72,100:2a5298)
 
 </div>
 
@@ -9,19 +9,28 @@
 ## 📍 About Me
 - **Name / Handle:** Woochan Jeong (정우찬) · `woochan0408`
 - **Major:** Software Engineering, Chung-Ang University (CAU)
-- **Current Programs:** LG **AImers** 7th cohort · Building **Note-Fairy AI** 🧚‍♂️
+- **Current Programs:** LG AImers 7th cohort  
 - **MBTI:** INTJ  
-- **Hobbies:** Photography 📸 · Fitness 🏋️ · Music Composition 🎹  
+- **Hobbies:** Photography 📸 · Music Composition 🎹  
 - **Contact:** <woochan0408@naver.com>  
 - **Blog:** [velog.io/@tesabel](https://velog.io/@tesabel/)
 
 ---
 
-## 🚀 Focus Right Now
-| Project | Tech Highlights | Summary |
-| ------- | --------------- | ------- |
-| **Note-Fairy AI** | Python · FastAPI · OpenAI API · MySQL · AWS | Maps Korean lecture audio to English slides for bite-sized revision |
-| **Walk-All** | React Native · Expo · Google Maps API | Generates personalized walking routes & health stats |
+## 🚧 Focus Right Now
+| Activity | Role / Goal | Summary |
+| -------- | ----------- | ------- |
+| **LG AImers 7기** | Deep-learning trainee | Model-centric projects & competitions |
+| **Orange Planet Hackathon** | Not yet decided | Not yet decided |
+| **전국 대학생 시공 경진 대회** | Full-stack developer | Connecting competition website with Rabbit toolkit |
+
+---
+
+## ✅ Completed Projects
+| Project | Tech Highlights | Link | Summary |
+| ----- | --------------- | ---- | ------- |
+| **필기요정 AI** | Flask · React | [capstone2025](https://github.com/2025capstoneDesign/capstone-FE) | Links lecture audio to slides for efficient, focused review. |
+| **Walk-All** | React Native · Expo | [capstone2024](https://github.com/cau-2024capstone/WalkAll-FE) | Generates personalized walking routes |
 
 ---
 
@@ -33,10 +42,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -47,24 +56,15 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woochan0408&show_icons=true&hide_border=true&theme=default" alt="woochan0408's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woochan0408&layout=compact&langs_count=6&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
-## 🌱 Goals for 2025
-- ✅ Publish **Note-Fairy AI** beta & onboard first users  
-- ✅ Release **Walk-All** on iOS & Android stores  
-- 🔄 Deep-dive into scalable backend architecture & DevOps  
-- 🔄 Contribute to open-source AI education projects  
+## 🎯 Goals for 2025
+- 🎖️ Advance to **LG AImers Phase 3**
+- 🎓 Graduate from University
+- 🔍 Decide between AI research path vs. building AI-powered services
+- 📚 Achieve **TOEIC 800+**
 
 <div align="center">
 
-*“Stay curious, build relentlessly, and iterate with purpose.”*  
+*“Study not for others, but to shape the best version of yourself”*  
 
 </div>
 
