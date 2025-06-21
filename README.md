@@ -23,7 +23,7 @@
 | -------- | ----------- | ------- |
 | **LG AImers 7기** | Deep-learning trainee | Model-centric projects & competitions |
 | **Orange Planet Hackathon** | Not yet decided | Not yet decided |
-| **전국 대학생 시공 경진 대회** | Full-stack developer | Connecting competition website with Rabbit toolkit |
+| **전국 대학생 시공 경진 대회** | Full-stack developer | Connecting website with Rabbit toolkit |
 
 ---
 
