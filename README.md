@@ -23,6 +23,8 @@ Contact: woochan0408@naver.com
 blog: https://velog.io/@tesabel/
 ```
 
+<br>
+
 <div align="center">
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tesabel/)
@@ -30,7 +32,8 @@ blog: https://velog.io/@tesabel/
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
 </div>
----
+
+<br>
 
 ## 🚀 Current Project
 
