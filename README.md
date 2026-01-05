@@ -6,8 +6,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tesabel/)
+
 
 </div>
 
@@ -20,16 +19,19 @@ Name: Woochan Jeong
 Location: Seoul, South Korea
 University: Chung-Ang University (Software Engineering)
 MBTI: INFJ
-Program: LG AImers 7th (Completed)
 Contact: woochan0408@naver.com
+blog: https://velog.io/@tesabel/
 ```
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
-![Snake animation](https://github.com/woochan0408/woochan0408/blob/output/github-snake-dark.svg)
-</div>
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tesabel/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
+
+![GitHub Contribution](https://ghchart.rshah.org/2A5298/woochan0408)
+
+</div>
 ---
 
 ## 🚀 Current Project
@@ -96,12 +98,12 @@ Contact: woochan0408@naver.com
 - ✓ LG AImers 7th
 
 #### In Progress
-- ◐ Graduate from University
+- ◐ Software Maestro
+- ◐ 정보처리기사 취득
+- ◐ TOEIC Speaking IH
 
 #### Target
-- ○ Software Maestro
-- ○ 정보처리기사 취득
-- ○ TOEIC Speaking IH
+- ○ Career in Financial Sector
 
 ---
 
@@ -112,6 +114,7 @@ Contact: woochan0408@naver.com
 *"Study not for others, but to shape the best version of yourself"*
 
 <br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3c72,100:2a5298)
 
 </div>
