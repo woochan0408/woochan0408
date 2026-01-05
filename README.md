@@ -1,40 +1,74 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&fontColor=FFFFFF&text=WOOCHAN0408&fontAlign=50&fontAlignY=45&desc=Software%20Engineering%20Student%20%7C%20AI-Driven%20Full-Stack%20Developer&descAlign=50&descAlignY=65&color=0:1e3c72,100:2a5298)
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Woochan%20Jeong&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descSize=18&descAlign=50&descAlignY=55&color=0:1e3c72,100:2a5298)
 
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+<!-- Social Badges -->
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tesabel/)
 
 </div>
 
 ---
 
-## 📍 About Me
-- **Name / Handle:** Woochan Jeong (정우찬) · `woochan0408`
-- **Major:** Software Engineering, Chung-Ang University (CAU)
-- **Current Programs:** LG AImers 7th cohort    
-- **Contact:** <woochan0408@naver.com>  
-- **Blog:** [velog.io/@tesabel](https://velog.io/@tesabel/)
+## 👨‍💻 About Me
+
+```yaml
+Name: Woochan Jeong
+Location: Seoul, South Korea
+University: Chung-Ang University (Software Engineering)
+MBTI: INFJ
+Program: LG AImers 7th (Completed)
+Contact: woochan0408@naver.com
+```
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
+![Snake animation](https://github.com/woochan0408/woochan0408/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
-## 🚧 Focus Right Now
-| Activity | Role / Goal | Summary |
-| -------- | ----------- | ------- |
-| **Wadot** | Full-stack developer | Currently implementing core features |
+## 🚀 Current Project
+
+<div align="center">
+
+| Project | Role | Description |
+|:-------:|:----:|:-----------:|
+| [![Daily One Page](https://img.shields.io/badge/Daily%20One%20Page-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daily-one-page) | Full-Stack Developer | Building a habit-forming daily journaling app |
+
+</div>
 
 ---
 
 ## ✅ Completed Projects
-| Project | Tech Highlights | Link | Summary |
-| ----- | --------------- | ---- | ------- |
-| **필기요정 AI** | Flask · React | [capstone2025](https://github.com/2025capstoneDesign/capstone-FE) | Links lecture audio to slides for efficient, focused review. |
-| **Walk-All** | React Native · Expo | [capstone2024](https://github.com/cau-2024capstone/WalkAll-FE) | Generates personalized walking routes |
+
+<div align="center">
+
+| Project | Tech Stack | Link |
+|:-------:|:----------:|:----:|
+| **필기요정 AI** | `Flask` `React` | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2025capstoneDesign/capstone-FE) |
+| **Walk-All** | `React Native` `Expo` | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cau-2024capstone/WalkAll-FE) |
+
+</div>
+
+> **필기요정 AI** - Links lecture audio to slides for efficient, focused review  
+> **Walk-All** - Generates personalized walking routes
 
 ---
+
 ## 🛠 Tech Stack
+
+<div align="center">
+
 ### Languages
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -45,28 +79,39 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & DevOps
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![GameMaker Studio](https://img.shields.io/badge/GameMaker%20Studio-000000?style=for-the-badge&logo=yoyogames&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
----
-
-## 🎯 Goals for 2025
-- 🎖️ Advance to **LG AImers Phase 3**
-- 🎓 Graduate from University
-- 🔍 Decide between AI research path vs. building AI-powered services
-- 📚 Achieve **TOEIC 800+**
-
-<div align="center">
-
-*“Study not for others, but to shape the best version of yourself”*  
-
 </div>
 
 ---
+
+## 🎯 Goals & Achievements
+
+#### Completed
+- ✓ Graduate from Chung-Ang University
+- ✓ AI-SW 창업 아이디어톤
+- ✓ LG AImers 7th
+
+#### In Progress
+- ◐ Graduate from University
+
+#### Target
+- ○ Software Maestro
+- ○ 정보처리기사 취득
+- ○ TOEIC Speaking IH
+
+---
+
+<div align="center">
+
+### 💭 Quote
+
+*"Study not for others, but to shape the best version of yourself"*
+
+<br>
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3c72,100:2a5298)
+
+</div>
