@@ -29,8 +29,6 @@ blog: https://velog.io/@tesabel/
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![GitHub Contribution](https://ghchart.rshah.org/2A5298/woochan0408)
-
 </div>
 ---
 
