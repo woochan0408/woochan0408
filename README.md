@@ -42,6 +42,7 @@ blog: https://velog.io/@tesabel/
 | Project | Role | Description |
 |:-------:|:----:|:-----------:|
 | [![Daily One Page](https://img.shields.io/badge/Daily%20One%20Page-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daily-one-page) | Full-Stack Developer | Building a habit-forming daily journaling app |
+| [![Algorithm Solutions](https://img.shields.io/badge/Algorithm%20Solutions-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woochan0408/algorithm-solutions) | - | Coding test practice & algorithm study |
 
 </div>
 
