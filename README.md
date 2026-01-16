@@ -36,13 +36,12 @@ blog: https://velog.io/@tesabel/
 <br>
 
 ## 🚀 Current Project
-
 <div align="center">
 
-| Project | Role | Description |
-|:-------:|:----:|:-----------:|
-| [![Daily One Page](https://img.shields.io/badge/Daily%20One%20Page-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daily-one-page) | Full-Stack Developer | Building a habit-forming daily journaling app |
-| [![Algorithm Solutions](https://img.shields.io/badge/Algorithm%20Solutions-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woochan0408/algorithm-solutions) | - | Coding test practice & algorithm study |
+| Project | Role | Description | Link |
+|:-------:|:----:|:-----------:|:----:|
+| Daily One Page | Full-Stack Developer | Building a habit-forming daily journaling app | [![Repository](https://img.shields.io/badge/Repository-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daily-one-page) |
+| Algorithm Solutions | - | Coding test practice & algorithm study | [![Repository](https://img.shields.io/badge/Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woochan0408/algorithm-solutions) |
 
 </div>
 
