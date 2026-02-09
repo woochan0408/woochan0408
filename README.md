@@ -94,12 +94,14 @@ blog: https://velog.io/@tesabel/
 ## 🎯 Goals & Achievements
 
 #### Completed
-- ✓ Graduate from Chung-Ang University
-- ✓ AI-SW 창업 아이디어톤
-- ✓ LG AImers 7th
+✓ Graduate from Chung-Ang University
+✓ AI-SW Startup Award
+✓ LG Aimers 7th
+✓ TOPCIT Level 3
+✓ TOEIC Speaking IM3
 
 #### In Progress
-- ◐ Software Maestro
+- ◐ Software Maestro - Applying
 - ◐ 정보처리기사 취득
 - ◐ TOEIC Speaking IH
 
