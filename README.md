@@ -37,8 +37,9 @@ blog: https://velog.io/@tesabel/
 
 | Project | Role | Description | Link |
 |:-------:|:----:|:-----------:|:----:|
-| Daily One Page | Full-Stack Developer | Building a habit-forming daily journaling app | [![Repository](https://img.shields.io/badge/Repository-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daily-one-page) |
+| IF / IMS ROI Alignment | Developer | Tool for locating the corresponding region of an ROI within a large IF full image (IF-IF & IF-IMS matching) | [![Repository](https://img.shields.io/badge/Repository-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woochan0408/if-ims-roi-alignment) |
 | Algorithm Solutions | - | Coding test practice & algorithm study | [![Repository](https://img.shields.io/badge/Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woochan0408/algorithm-solutions) |
+| Daily One Page | Full-Stack Developer | Building a habit-forming daily journaling app | [![Repository](https://img.shields.io/badge/Repository-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daily-one-page) |
 
 </div>
 
